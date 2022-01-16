@@ -6,6 +6,8 @@ The classic game Snake, written in Python!
 
 Snake is a simple yet fun game where the player controls a snake who continuously grows larger as it eats more fruits. This version comes with a continuously updating scoreboard.
 
+![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/81489476/149677935-e0cc6666-7508-45f9-a1e8-55dbae2e18b2.gif)
+
 ## Getting Started
 
 ### Dependencies
